@@ -1,0 +1,9 @@
+﻿Hydraulic_Pressure(bar),Coolant_Pressure(bar),Air_System_Pressure(bar),Coolant_Temperature,Hydraulic_Oil_Temperature(Â°C),Spindle_Bearing_Temperature(Â°C),Spindle_Vibration(Âµm),Tool_Vibration(Âµm),Spindle_Speed(RPM),Voltage(volts),Torque(Nm),Cutting(kN)
+mean-101.4091,mean-4.947055809,mean-6.499274596,mean-18.55988746,mean-47.61831723,mean-35.06369836,mean-1.009334271,mean-25.41197509,mean-20274.7923,mean-348.9967923,mean-25.23496773,mean-2.782551143
+medium-96.76349,medium-4.939960216,medium-6.5051914,medium-21.2,medium-47.7,medium-35.1,medium-1.008,medium-25.455,medium-20137.5,medium-349,medium-24.64773607,medium-2.78
+mode-89.45875,mode-6.839413159,mode-5.928643257,mode-26.4,mode-48,mode-34.6,mode-1.231,mode-30.585,mode-17726,mode-337,mode-35.58033366,mode-3.55
+variance-917.4417328,variance-0.994716089,variance-0.16587652,variance-73.17912214,variance-14.20290639,variance-14.17389434,variance-0.117579076,variance-41.4367948,variance-14842989.51,variance-2058.983544,variance-37.68196218,variance-0.380304404
+std-30.28930063,std-0.997354545,std-0.407279412,std-8.554479654,std-3.768674354,std-3.764823282,std-0.342898054,std-6.437141819,std-3852.660056,std-45.37602389,std-6.138563527,std-0.616688255
+range-205.3264542,range-11.025,range-2.910511493,range-94.1,range-26.2,range-26.9,range-2.461,range-43.565,range-27957,range-277,range-55.5524,range-2.13
+skewness- 2.57. ,skewness-266.69,skewness-−96.44,skewness-4.062,skewness-0.0648,skewness-0.0289,skewness-0.0117,skewness- 0.0201,skewness-0.1069,skewness-0.0002,skewness-0.287,skewness-0.0124
+kurtosis- 3,Kurtosis- 3  ,kurtosis-3,kurtosis-2.931168663,kurtosis-−3,kurtosis- -3,kurtosis--3,kurtosis--3,kurtosis--3,kurtosis--3,kurtosis--3,kurtosis--3
